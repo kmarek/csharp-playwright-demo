@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Aug 21 11:45:41 GMT 2024","Wed Aug 21 11:45:43 GMT 2024","2098","","PlaywrightTests","","Tests","Test1","Test1",""
-"broken","Wed Aug 21 11:45:41 GMT 2024","Wed Aug 21 11:45:48 GMT 2024","6960","","UnitTests","","UnitTests2","Test2","Test2",""
+"passed","Wed Aug 21 11:51:29 GMT 2024","Wed Aug 21 11:51:35 GMT 2024","6182","","PlaywrightTests","","Tests","Test1","Test1",""
+"broken","Wed Aug 21 11:51:29 GMT 2024","Wed Aug 21 11:51:40 GMT 2024","11030","","UnitTests","","UnitTests2","Test2","Test2",""
