@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","54","Test22","","Thu Sep 12 17:52:23 GMT 2024","passed","Thu Sep 12 17:52:23 GMT 2024","","UnitTests","UnitTests2","Test22"
+"","1265","Test1","","Thu Sep 12 17:52:22 GMT 2024","passed","Thu Sep 12 17:52:23 GMT 2024","","PlaywrightTests","Tests","Test1"
+"","1150","Test2","","Thu Sep 12 17:52:22 GMT 2024","passed","Thu Sep 12 17:52:23 GMT 2024","","UnitTests","UnitTests2","Test2"
